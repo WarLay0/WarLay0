@@ -2,6 +2,6 @@
 
 <h2>:pushpin:Contactez-moi</h2>
 <div>
-  <img src='linkedin.png'>
-  <img src='github.png'>
+  <img src='linkedin.png' width='50px' height='auto'>
+  <img src='github.png' width='50px' height='auto'>
 </div>
