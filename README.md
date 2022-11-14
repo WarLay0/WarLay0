@@ -2,6 +2,7 @@
 
 <h2>:pushpin:Contactez-moi</h2>
 <div align='center'>
-  <img src='linkedin.png' width='100px' height='auto'>
-  <img src='github.png' width='100px' height='auto'>
+  <img src='linkedin.png' width='75px' height='auto'>
+  <img src='github.png' width='75px' height='auto'>
+  <img src='web.png' width='75px' height='auto'>
 </div>
